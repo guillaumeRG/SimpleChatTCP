@@ -1,0 +1,4 @@
+ipLocale : 192.168.52.1
+ipCible : 192.168.52.1
+port : 5217
+dhcp : true
