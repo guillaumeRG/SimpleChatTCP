@@ -1,0 +1,1 @@
+use the client/ipconfig or server/ipconfig files to make sure the client can reach the server enjoy!!
